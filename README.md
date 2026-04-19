@@ -1,3 +1,5 @@
+Migrating to [codeberg.org/RLalor](https://codeberg.org/RLalor) in support of FOSS. GitHub's direction is becoming less aligned with open-source values.
+---
 <html><h3>👋 Hi, I'm Rory<br>
 👀 I’m interested in all things Full Stack Web Development and Python<br>
 🌱 I’m currently learning Full Stack, Linux system admin, Python<br>
